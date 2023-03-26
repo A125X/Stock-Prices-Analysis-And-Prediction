@@ -1,2 +1,3 @@
-# bitcoin-price-prediction
-some time series analysis / predictions using rnn
+# Stock Prices Analysis And Prediction
+
+I used KerasTuner HyperModel for LSTM models, ARIMA model and yahoo finance data to predict changes in the Bitcoin price. In conclusion, error is too big to use it in somewhat useful way, which proves Effective Maket Theory.
